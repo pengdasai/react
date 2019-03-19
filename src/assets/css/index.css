@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.kist{
+  padding: 40px;
+}
+
+.lsit li{
+  line-height: 20px;
+}
