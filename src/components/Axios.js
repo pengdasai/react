@@ -1,4 +1,5 @@
 //请求服务器数据
+//生命周期函数
 import React, { Component } from 'react';
 import axios from 'axios';
 class Axios extends Component{
